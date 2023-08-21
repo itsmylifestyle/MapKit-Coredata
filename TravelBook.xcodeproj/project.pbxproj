@@ -14,6 +14,7 @@
 		A7FEB0482A9200460077DA53 /* TravelBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A7FEB0462A9200460077DA53 /* TravelBook.xcdatamodeld */; };
 		A7FEB04A2A9200460077DA53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7FEB0492A9200460077DA53 /* Assets.xcassets */; };
 		A7FEB04D2A9200460077DA53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7FEB04B2A9200460077DA53 /* LaunchScreen.storyboard */; };
+		A7FEB0552A921FD90077DA53 /* ViewControllerSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7FEB0542A921FD90077DA53 /* ViewControllerSecond.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A7FEB0492A9200460077DA53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7FEB04C2A9200460077DA53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7FEB04E2A9200460077DA53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7FEB0542A921FD90077DA53 /* ViewControllerSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSecond.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A7FEB03F2A9200460077DA53 /* SceneDelegate.swift */,
 				A7FEB0412A9200460077DA53 /* ViewController.swift */,
 				A7FEB0432A9200460077DA53 /* Main.storyboard */,
+				A7FEB0542A921FD90077DA53 /* ViewControllerSecond.swift */,
 				A7FEB0492A9200460077DA53 /* Assets.xcassets */,
 				A7FEB04B2A9200460077DA53 /* LaunchScreen.storyboard */,
 				A7FEB04E2A9200460077DA53 /* Info.plist */,
@@ -144,6 +147,7 @@
 				A7FEB0482A9200460077DA53 /* TravelBook.xcdatamodeld in Sources */,
 				A7FEB0422A9200460077DA53 /* ViewController.swift in Sources */,
 				A7FEB03E2A9200460077DA53 /* AppDelegate.swift in Sources */,
+				A7FEB0552A921FD90077DA53 /* ViewControllerSecond.swift in Sources */,
 				A7FEB0402A9200460077DA53 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

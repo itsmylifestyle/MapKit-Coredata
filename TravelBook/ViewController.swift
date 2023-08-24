@@ -183,6 +183,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
         
         do {
             try context.save()
+            print("context save. Success. Fixing some UI components. 24.08.2023")
         } catch {
             print("sonewthing went wrong")
         }
